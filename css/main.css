@@ -1,0 +1,237 @@
+body {
+	width: 100%;
+	margin: 0;
+	
+}
+/*NAV*/
+nav {
+	background-color: #A6D2DB;
+    padding-bottom: 20px;
+}
+
+/*Logo Heading*/
+.logo {
+	text-align: right;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 295px;
+    font-size: 38px;
+    font-family: 'Amatic SC', cursive;
+    /*border-style: solid;
+    border-color: #0000ff;
+*/}
+
+
+.navUl {
+    float: right;
+    margin-right: 268px;
+    margin-top: 40px;
+
+  /*  border-style: solid;
+    border-color: #0000ff;*/
+}
+
+ul li a:hover
+{
+    color: gray;
+    height: 30px;
+}
+
+.navLi {
+	display: inline-block;
+	padding-right: 43px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #444444;
+	font-size: 18px;
+}
+/*This templates awsesome heading*/
+.animated {
+	position: absolute;
+    margin-top: 185px;
+    margin-left: 175px;
+    font-size: 77px;
+    text-align: center;
+    font-family: 'Bangers', cursive;
+}
+/*iMac Picture*/
+.imac {
+	width:32%;
+	margin-left: 644px;
+    margin-top: 47px;
+}
+
+/*Bottom 3 fa-circles*/
+.circles {
+	text-align: center;
+    margin-top: 45px;
+    font-size: 29px;
+    color: white;
+}
+
+/*SECTION 2*/
+
+.section2 {
+    margin-left: 64px;
+    padding-top: 36px;
+    padding-bottom: 98px;
+    padding-left: 32px;
+
+
+}
+.divSection2 {
+	width: 22%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 16px;
+    padding: 11px 43px;
+    /*border-style: solid;
+    border-color: #0000ff*/
+}
+
+.appleProducts {
+	width: 282px;
+}
+.lightBulb {
+	width: 182px;
+}
+.webIcon {
+	width: 172px;
+}
+
+
+/*SECTION 3*/
+.section3 {
+	padding-top: 36px;
+    padding-bottom: 98px;
+    background-color: #96CFA2
+}
+
+.recentWorks {
+	text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.recentWorks2 {
+	text-align: center;
+	margin: -17px;
+}
+
+/*Section 3 UL*/
+.section3Ul {
+	text-align: center;
+ /*   border-style: solid;
+    border-color: #0000ff;*/
+}
+
+
+/*Section 4*/
+.section4 {
+    padding-top: 36px;
+    padding-bottom: 98px;
+    background-color: #E0B5C6;
+
+
+
+}
+.ourTeam {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+
+.ourTeam2 {
+    text-align: center;
+    /*border-style: solid;*/
+   /* border-color: #0000ff;*/
+}
+
+.divSection4 {
+    display: inline-block;
+    text-align: center;
+ /*   border-style: solid;
+    border-color: #0000ff;*/
+    width: 384px;
+    margin-right: 27px;
+
+}
+/*Section 4 h1*/
+.johnSmith {
+    margin: -20px;
+    margin-top: 9px;
+}
+.creativeDirector {
+    margin-bottom: -18px;
+}
+
+.profiledivs {
+    margin-left: 97px;
+}
+
+/*Section 5*/
+.section5 {
+background-color: #A6D2DB;
+padding-top: 36px;
+padding-bottom: 98px;
+}
+
+.recentPosts {
+    text-align: center;
+    color: white;
+    font-size: 32px;
+}
+.recentPosts2 {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+
+/*Section 6*/
+.contactUs {
+    text-align: center;
+}
+.contactUs2 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.sendcontact {
+    padding: 31px;
+    margin-left: 509px;
+
+
+}
+
+.contactMe {
+    width: 350px;
+    height: 30px;
+}
+
+
+
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+    margin: 25px 0;
+    padding: 5px 0 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
